@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should match snapshot 1`] = `
+<div
+  className="MuiBottomNavigation-root makeStyles-nav-2"
+>
+  <a
+    aria-disabled={false}
+    className="MuiButtonBase-root MuiBottomNavigationAction-root makeStyles-root-1"
+    href="#/"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <span
+      className="MuiBottomNavigationAction-wrapper"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label"
+      >
+        List of Videos
+      </span>
+    </span>
+  </a>
+  <a
+    aria-disabled={false}
+    className="MuiButtonBase-root MuiBottomNavigationAction-root makeStyles-root-1"
+    href="#/upload"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <span
+      className="MuiBottomNavigationAction-wrapper"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M5 4v2h14V4H5zm0 10h4v6h6v-6h4l-7-7-7 7z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label"
+      >
+        Upload Video
+      </span>
+    </span>
+  </a>
+</div>
+`;
