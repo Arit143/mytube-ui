@@ -14,7 +14,7 @@ yarn install
 
 ```
 
-Fire up with `npm start` to start the browser and navigate to http://localhost:3000 to see the components in action.
+Fire up with `yarn start` to start the browser and navigate to http://localhost:3000 to see the components in action.
 
 ## Packages
 
